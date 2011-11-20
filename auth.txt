@@ -1,0 +1,10 @@
+0.14322686 eric.linder@enron.com
+0.17215540 leaf.harasin@enron.com
+0.21574703 michael.mier@enron.com
+0.21582593 john.anderson@enron.com
+0.27794900 bill.williams@enron.com
+0.35558130 craig.dean@enron.com
+0.38376442 geir.solberg@enron.com
+0.38384904 mark.guzman@enron.com
+0.38417654 albert.meyers@enron.com
+0.38418729 ryan.slinger@enron.com

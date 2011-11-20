@@ -1,0 +1,10 @@
+0.00280233 carla.hoffman@enron.com
+0.00329035 kysa.alport@enron.com
+0.00401388 kate.symes@enron.com
+0.00450158 kathryn.sheppard@enron.com
+0.00475681 alan.comnes@enron.com
+0.00582503 grace.rodriguez@enron.com
+0.00677409 l..denton@enron.com
+0.01040850 rhonda.denton@enron.com
+0.03296957 bill.williams@enron.com
+0.99928093 pete.davis@enron.com

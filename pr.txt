@@ -1,0 +1,10 @@
+0.00052878 sally.beck@enron.com
+0.00060602 jeff.dasovich@enron.com
+0.00065908 gerald.nemec@enron.com
+0.00073406 louise.kitchen@enron.com
+0.00079017 kenneth.lay@enron.com
+0.00081926 mark.taylor@enron.com
+0.00085150 tana.jones@enron.com
+0.00087774 jeff.skilling@enron.com
+0.00088078 sara.shackleton@enron.com
+0.00232270 klay@enron.com
